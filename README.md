@@ -33,7 +33,6 @@ $ cd 2_generate_latex_to_pdf/2_linear_equation_pdf or 3_inequality_pdf or 4_limi
 $python latex_to_pdf_linear_equation.py or latex_to_pdf_inequality.py or latex_to_pdf_limit.py or latex_to_pdf_differentiation.py or latex_to_pdf_integral.py or latex_to_pdf_finite_integral.py
 
 ## 4. Generate images corresponds to pdfs for each type of equations
-
 $ cd 3_generate_pdf_to_image
 $ python pair_of_equation_pdf2png.py
 
@@ -54,4 +53,17 @@ $cd 4_generate_crop_image/1_pair_of_equation_crop_image or 2_linear_equation_cro
 and 
 $ cd 20_generate_textual_description/pair_of_equation or linear_equation or inequality or limit or differentiation or integral or finite_integral 
 
+## Textual Description for Mathematical Equations
+# Overview of Mathematical Expression Description Network 
+![alt text](image/pair_14.jpg)
 
+# Create vocabulary 
+MED$ python3 build_vocab.py
+# Resise Images
+MED$ python3 resize.py
+# Training 
+MED$ python3 train.py
+# Evaluate
+MED$ python3 sample.py
+
+## Results
