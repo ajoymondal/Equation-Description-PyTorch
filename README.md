@@ -53,17 +53,41 @@ $cd 4_generate_crop_image/1_pair_of_equation_crop_image or 2_linear_equation_cro
 and 
 $ cd 20_generate_textual_description/pair_of_equation or linear_equation or inequality or limit or differentiation or integral or finite_integral 
 
-## Textual Description for Mathematical Equations
-# Overview of Mathematical Expression Description Network 
-![alt text](image/pair_14.jpg)
+# Textual Description for Mathematical Equations
+## Overview of Mathematical Expression Description Network 
+![alt text](image/model.png)
 
-# Create vocabulary 
+## Create vocabulary 
 MED$ python3 build_vocab.py
-# Resise Images
+## Resise Images
 MED$ python3 resize.py
-# Training 
+## Training 
 MED$ python3 train.py
-# Evaluate
+## Evaluate
 MED$ python3 sample.py
 
-## Results
+# Results
+![alt text](image/test_81275.jpg)
+integral of second root of all theta minus a with respect to theta
+
+![alt text](image/test_82913.jpg)
+integral of sec z with respect to z from lower limit minus pie by two to upper limit minus pie by four
+
+![alt text](image/test_82913.jpg)
+
+differentiation of five all over second root of all tweenty five minus t square with respect to t
+
+![alt text](image/test_82913.jpg)
+right hand limit of sin x over x as x approaches to zero
+
+
+left hand limit of x power of a all minus one all over x as x approaches to zero
+
+
+limit of second root of all y plus five all over y plus five as y approaches to five
+
+ten times y less than or equal to three times y plus ten
+
+y minus z equal to minus one and minus four times z minus five times t equal to two
+
+two equal to minus t plus five
