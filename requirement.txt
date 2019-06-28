@@ -1,0 +1,6 @@
+python2.7
+pillow 
+numpy
+pypdf2
+wand
+opencv

@@ -1,0 +1,201 @@
+integral_0.png	integral of cosec x with respect to x
+integral_1.png	integral of x power of a with respect to x
+integral_2.png	integral of x power of a with respect to x
+integral_3.png	integral of x power of a with respect to x
+integral_4.png	integral of x power of a with respect to x
+integral_5.png	integral of logarithmic of x with respect to x
+integral_6.png	integral of logarithmic of x with respect to x
+integral_7.png	integral of logarithmic of x with respect to x
+integral_8.png	integral of natural logerthmic of x with respect to x
+integral_9.png	integral of natural logarithmic of all one minus x with respect to x
+integral_10.png	integral of logarithmic of all one minus x with respect to x
+integral_11.png	integral of natural logarithmic of all one plus x with respect to x
+integral_12.png	integral of logarithmic of all one plus x with respect to x
+integral_13.png	integral of natural logarithmic of x all over x with respect to x
+integral_14.png	integral of natural logarithmic of x all over x with respect to x
+integral_15.png	integral of natural logarithmic of x all over x with respect to x
+integral_16.png	integral of natural logarithmic of x all over x with respect to x
+integral_17.png	integral of x and logarithmic of x with respect to x
+integral_18.png	integral of x and logarithmic of x with respect to x
+integral_19.png	integral of x and logarithmic of x with respect to x
+integral_20.png	integral of x and logarithmic of x with respect to x
+integral_21.png	integral of x and natural logarithmic of all one plus x with respect to x
+integral_22.png	integral of x and logarithmic of all one minus x with respect to x
+integral_23.png	integral of x and natural logarithmic of all one plus x with respect to x
+integral_24.png	integral of x and logarithmic of all one plus x with respect to x
+integral_25.png	integral of natural logarithmic of all x plus one with respect to x
+integral_26.png	integral of natural logarithmic of all x minus one with respect to x
+integral_27.png	integral of natural logarithmic of all x minus one with respect to x
+integral_28.png	integral of natural logarithmic of all x minus one with respect to x
+integral_29.png	integral of x and logarithmic of all x minus one with respect to x
+integral_30.png	integral of x and natural logarithmic of all x plus one with respect to x
+integral_31.png	integral of x and logarithmic of all x minus one with respect to x
+integral_32.png	integral of x and natural logarithmic of all x plus one with respect to x
+integral_33.png	integral of natural logarithmic of all one plus x all over x with respect to x
+integral_34.png	integral of logarithmic of all one plus x all over x with respect to x
+integral_35.png	integral of natural logarithmic of all one plus x all over x with respect to x
+integral_36.png	integral of natural logarithmic of all one plus x all over x with respect to x
+integral_37.png	integral of logarithmic of all x minus one all over x with respect to x
+integral_38.png	integral of logarithmic of all x minus one all over x with respect to x
+integral_39.png	integral of logarithmic of all x plus one all over x with respect to x
+integral_40.png	integral of logarithmic of all x plus one all over x with respect to x
+integral_41.png	integral of z power of a with respect to z
+integral_42.png	integral of z power of a with respect to z
+integral_43.png	integral of z power of a with respect to z
+integral_44.png	integral of z power of a with respect to z
+integral_45.png	integral of natural logerthmic of z with respect to z
+integral_46.png	integral of natural logerthmic of z with respect to z
+integral_47.png	integral of natural logerthmic of z with respect to z
+integral_48.png	integral of logarithmic of z with respect to z
+integral_49.png	integral of logarithmic of all one plus z with respect to z
+integral_50.png	integral of natural logarithmic of all one plus z with respect to z
+integral_51.png	integral of natural logarithmic of all one plus z with respect to z
+integral_52.png	integral of natural logarithmic of all one minus z with respect to z
+integral_53.png	integral of logarithmic of z all over z with respect to z
+integral_54.png	integral of natural logarithmic of z all over z with respect to z
+integral_55.png	integral of logarithmic of z all over z with respect to z
+integral_56.png	integral of natural logarithmic of z all over z with respect to z
+integral_57.png	integral of z and natural logarithmic of z with respect to z
+integral_58.png	integral of z and natural logarithmic of z with respect to z
+integral_59.png	integral of z and natural logarithmic of z with respect to z
+integral_60.png	integral of z and natural logarithmic of z with respect to z
+integral_61.png	integral of z and logarithmic of all one plus z with respect to z
+integral_62.png	integral of z and logarithmic of all one minus z with respect to z
+integral_63.png	integral of z and logarithmic of all one plus z with respect to z
+integral_64.png	integral of z and logarithmic of all one plus z with respect to z
+integral_65.png	integral of natural logarithmic of all z minus one with respect to z
+integral_66.png	integral of natural logarithmic of all z plus one with respect to z
+integral_67.png	integral of natural logarithmic of all z plus one with respect to z
+integral_68.png	integral of natural logarithmic of all z plus one with respect to z
+integral_69.png	integral of z and natural logarithmic of all z minus one with respect to z
+integral_70.png	integral of z and natural logarithmic of all z minus one with respect to z
+integral_71.png	integral of z and natural logarithmic of all z minus one with respect to z
+integral_72.png	integral of z and logarithmic of all z minus one with respect to z
+integral_73.png	integral of natural logarithmic of all one plus z all over z with respect to z
+integral_74.png	integral of logarithmic of all one minus z all over z with respect to z
+integral_75.png	integral of logarithmic of all one minus z all over z with respect to z
+integral_76.png	integral of natural logarithmic of all one minus z all over z with respect to z
+integral_77.png	integral of natural logarithmic of all z plus one all over z with respect to z
+integral_78.png	integral of natural logarithmic of all z minus one all over z with respect to z
+integral_79.png	integral of logarithmic of all z minus one all over z with respect to z
+integral_80.png	integral of logarithmic of all z minus one all over z with respect to z
+integral_81.png	integral of t power of a with respect to t
+integral_82.png	integral of t power of a with respect to t
+integral_83.png	integral of t power of a with respect to t
+integral_84.png	integral of t power of a with respect to t
+integral_85.png	integral of natural logerthmic of t with respect to t
+integral_86.png	integral of natural logerthmic of t with respect to t
+integral_87.png	integral of logarithmic of t with respect to t
+integral_88.png	integral of logarithmic of t with respect to t
+integral_89.png	integral of logarithmic of all one plus t with respect to t
+integral_90.png	integral of natural logarithmic of all one minus t with respect to t
+integral_91.png	integral of natural logarithmic of all one plus t with respect to t
+integral_92.png	integral of natural logarithmic of all one minus t with respect to t
+integral_93.png	integral of logarithmic of t all over t with respect to t
+integral_94.png	integral of natural logarithmic of t all over t with respect to t
+integral_95.png	integral of logarithmic of t all over t with respect to t
+integral_96.png	integral of logarithmic of t all over t with respect to t
+integral_97.png	integral of t and logarithmic of t with respect to t
+integral_98.png	integral of t and natural logarithmic of t with respect to t
+integral_99.png	integral of t and natural logarithmic of t with respect to t
+integral_100.png	integral of t and logarithmic of t with respect to t
+integral_101.png	integral of t and natural logarithmic of all one minus t with respect to t
+integral_102.png	integral of t and logarithmic of all one plus t with respect to t
+integral_103.png	integral of t and natural logarithmic of all one plus t with respect to t
+integral_104.png	integral of t and natural logarithmic of all one minus t with respect to t
+integral_105.png	integral of logarithmic of all t plus one with respect to t
+integral_106.png	integral of natural logarithmic of all t minus one with respect to t
+integral_107.png	integral of natural logarithmic of all t plus one with respect to t
+integral_108.png	integral of natural logarithmic of all t minus one with respect to t
+integral_109.png	integral of t and natural logarithmic of all t plus one with respect to t
+integral_110.png	integral of t and logarithmic of all t plus one with respect to t
+integral_111.png	integral of t and logarithmic of all t minus one with respect to t
+integral_112.png	integral of t and natural logarithmic of all t minus one with respect to t
+integral_113.png	integral of natural logarithmic of all one plus t all over t with respect to t
+integral_114.png	integral of logarithmic of all one minus t all over t with respect to t
+integral_115.png	integral of logarithmic of all one minus t all over t with respect to t
+integral_116.png	integral of natural logarithmic of all one plus t all over t with respect to t
+integral_117.png	integral of natural logarithmic of all t plus one all over t with respect to t
+integral_118.png	integral of natural logarithmic of all t plus one all over t with respect to t
+integral_119.png	integral of logarithmic of all t plus one all over t with respect to t
+integral_120.png	integral of logarithmic of all t minus one all over t with respect to t
+integral_121.png	integral of y power of a with respect to y
+integral_122.png	integral of y power of a with respect to y
+integral_123.png	integral of y power of a with respect to y
+integral_124.png	integral of y power of a with respect to y
+integral_125.png	integral of logarithmic of y with respect to y
+integral_126.png	integral of natural logerthmic of y with respect to y
+integral_127.png	integral of logarithmic of y with respect to y
+integral_128.png	integral of natural logerthmic of y with respect to y
+integral_129.png	integral of logarithmic of all one plus y with respect to y
+integral_130.png	integral of logarithmic of all one plus y with respect to y
+integral_131.png	integral of logarithmic of all one plus y with respect to y
+integral_132.png	integral of natural logarithmic of all one minus y with respect to y
+integral_133.png	integral of logarithmic of y all over y with respect to y
+integral_134.png	integral of logarithmic of y all over y with respect to y
+integral_135.png	integral of logarithmic of y all over y with respect to y
+integral_136.png	integral of natural logarithmic of y all over y with respect to y
+integral_137.png	integral of y and logarithmic of y with respect to y
+integral_138.png	integral of y and logarithmic of y with respect to y
+integral_139.png	integral of y and logarithmic of y with respect to y
+integral_140.png	integral of y and logarithmic of y with respect to y
+integral_141.png	integral of y and natural logarithmic of all one plus y with respect to y
+integral_142.png	integral of y and natural logarithmic of all one minus y with respect to y
+integral_143.png	integral of y and logarithmic of all one minus y with respect to y
+integral_144.png	integral of y and natural logarithmic of all one plus y with respect to y
+integral_145.png	integral of logarithmic of all y plus one with respect to y
+integral_146.png	integral of logarithmic of all y plus one with respect to y
+integral_147.png	integral of logarithmic of all y plus one with respect to y
+integral_148.png	integral of logarithmic of all y minus one with respect to y
+integral_149.png	integral of y and logarithmic of all y minus one with respect to y
+integral_150.png	integral of y and natural logarithmic of all y minus one with respect to y
+integral_151.png	integral of y and natural logarithmic of all y plus one with respect to y
+integral_152.png	integral of y and natural logarithmic of all y plus one with respect to y
+integral_153.png	integral of natural logarithmic of all one minus y all over y with respect to y
+integral_154.png	integral of logarithmic of all one plus y all over y with respect to y
+integral_155.png	integral of logarithmic of all one minus y all over y with respect to y
+integral_156.png	integral of logarithmic of all one minus y all over y with respect to y
+integral_157.png	integral of logarithmic of all y minus one all over y with respect to y
+integral_158.png	integral of logarithmic of all y plus one all over y with respect to y
+integral_159.png	integral of logarithmic of all y minus one all over y with respect to y
+integral_160.png	integral of natural logarithmic of all y plus one all over y with respect to y
+integral_161.png	integral of theta power of a with respect to theta
+integral_162.png	integral of theta power of a with respect to theta
+integral_163.png	integral of theta power of a with respect to theta
+integral_164.png	integral of theta power of a with respect to theta
+integral_165.png	integral of logarithmic of theta with respect to theta
+integral_166.png	integral of natural logerthmic of theta with respect to theta
+integral_167.png	integral of natural logerthmic of theta with respect to theta
+integral_168.png	integral of logarithmic of theta with respect to theta
+integral_169.png	integral of natural logarithmic of all one minus theta with respect to theta
+integral_170.png	integral of logarithmic of all one plus theta with respect to theta
+integral_171.png	integral of natural logarithmic of all one plus theta with respect to theta
+integral_172.png	integral of natural logarithmic of all one minus theta with respect to theta
+integral_173.png	integral of natural logarithmic of theta all over theta with respect to theta
+integral_174.png	integral of logarithmic of theta all over theta with respect to theta
+integral_175.png	integral of logarithmic of theta all over theta with respect to theta
+integral_176.png	integral of logarithmic of theta all over theta with respect to theta
+integral_177.png	integral of theta and natural logarithmic of theta with respect to theta
+integral_178.png	integral of theta and logarithmic of theta with respect to theta
+integral_179.png	integral of theta and logarithmic of theta with respect to theta
+integral_180.png	integral of theta and natural logarithmic of theta with respect to theta
+integral_181.png	integral of theta and natural logarithmic of all one plus theta with respect to theta
+integral_182.png	integral of theta and logarithmic of all one plus theta with respect to theta
+integral_183.png	integral of theta and logarithmic of all one minus theta with respect to theta
+integral_184.png	integral of theta and logarithmic of all one minus theta with respect to theta
+integral_185.png	integral of natural logarithmic of all theta minus one with respect to theta
+integral_186.png	integral of logarithmic of all theta plus one with respect to theta
+integral_187.png	integral of logarithmic of all theta minus one with respect to theta
+integral_188.png	integral of logarithmic of all theta plus one with respect to theta
+integral_189.png	integral of theta and natural logarithmic of all theta minus one with respect to theta
+integral_190.png	integral of theta and natural logarithmic of all theta plus one with respect to theta
+integral_191.png	integral of theta and logarithmic of all theta minus one with respect to theta
+integral_192.png	integral of theta and logarithmic of all theta plus one with respect to theta
+integral_193.png	integral of logarithmic of all one minus theta all over theta with respect to theta
+integral_194.png	integral of logarithmic of all one minus theta all over theta with respect to theta
+integral_195.png	integral of logarithmic of all one plus theta all over theta with respect to theta
+integral_196.png	integral of logarithmic of all one plus theta all over theta with respect to theta
+integral_197.png	integral of logarithmic of all theta minus one all over theta with respect to theta
+integral_198.png	integral of natural logarithmic of all theta minus one all over theta with respect to theta
+integral_199.png	integral of logarithmic of all theta plus one all over theta with respect to theta
+integral_200.png	integral of logarithmic of all theta plus one all over theta with respect to theta

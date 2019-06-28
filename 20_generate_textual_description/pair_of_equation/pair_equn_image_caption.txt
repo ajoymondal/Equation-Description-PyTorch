@@ -1,0 +1,30 @@
+pair_0.png	minus two times x plus eight times y equal to ten and ten times x plus eight times y equal to minus eight 
+pair_1.png	four times x plus five times y equal to eight and six times x minus eight times y equal to minus two 
+pair_2.png	minus eight times x plus eight times y equal to minus seven and two times x plus nine times y equal to nine 
+pair_3.png	eight times x plus three times y equal to minus ten and minus ten times x plus two times y equal to minus eight 
+pair_4.png	ten times x minus y equal to six and six times x plus eight times y equal to five 
+pair_5.png	six times x plus six times z equal to minus six and minus ten times x minus nine times z equal to minus six 
+pair_6.png	ten times x minus nine times z equal to minus four and five times x plus eight times z equal to minus eight 
+pair_7.png	five times x plus five times z equal to ten and minus eight times x plus five times z equal to minus one 
+pair_8.png	minus nine times x minus seven times z equal to two and minus x plus four times z equal to ten 
+pair_9.png	three times x plus seven times z equal to three and minus three times x plus two times z equal to six 
+pair_10.png	nine times x plus ten times t equal to minus nine and minus ten times x plus seven times t equal to minus seven 
+pair_11.png	seven times x plus seven times t equal to nine and minus x plus eight times t equal to minus three 
+pair_12.png	minus six times x plus two times t equal to nine and x minus ten times t equal to minus six 
+pair_13.png	ten times x minus five times t equal to minus one and minus four times x minus five times t equal to minus one 
+pair_14.png	minus eight times x plus two times t equal to six and minus ten times x minus five times t equal to seven 
+pair_15.png	four times y minus three times z equal to five and minus eight times y plus three times z equal to nine 
+pair_16.png	nine times y minus ten times z equal to minus five and eight times y minus four times z equal to three 
+pair_17.png	nine times y plus z equal to minus three and minus two times y minus eight times z equal to minus six 
+pair_18.png	minus eight times y minus nine times z equal to three and minus two times y minus z equal to minus eight 
+pair_19.png	minus six times y plus ten times z equal to eight and minus six times y plus four times z equal to minus five 
+pair_20.png	minus four times y plus t equal to minus three and seven times y plus five times t equal to four 
+pair_21.png	ten times y minus three times t equal to four and minus ten times y plus five times t equal to eight 
+pair_22.png	eight times y minus three times t equal to minus six and minus y plus t equal to minus one 
+pair_23.png	two times y minus seven times t equal to minus four and minus seven times y minus three times t equal to three 
+pair_24.png	minus ten times y plus ten times t equal to minus one and five times y plus four times t equal to minus ten 
+pair_25.png	three times z plus seven times t equal to eight and minus four times z plus four times t equal to three 
+pair_26.png	two times z plus five times t equal to nine and minus five times z minus eight times t equal to five 
+pair_27.png	minus three times z plus nine times t equal to minus six and minus two times z minus five times t equal to nine 
+pair_28.png	minus two times z minus eight times t equal to five and minus nine times z minus eight times t equal to six 
+pair_29.png	nine times z plus eight times t equal to minus eight and four times z plus three times t equal to minus one 

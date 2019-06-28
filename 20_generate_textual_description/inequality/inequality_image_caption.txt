@@ -1,0 +1,10 @@
+inequality_0.png	seven times x less than zero
+inequality_1.png	minus six times x less than or equal to eight
+inequality_2.png	x greater than five
+inequality_3.png	minus ten times x greater than or equal to three
+inequality_4.png	minus y less than or equal to one
+inequality_5.png	minus two times y greater than minus six
+inequality_6.png	minus two times y greater than or equal to minus six
+inequality_7.png	two times z greater than minus five
+inequality_8.png	minus seven times z greater than or equal to minus five
+inequality_9.png	minus four times t greater than or equal to minus six

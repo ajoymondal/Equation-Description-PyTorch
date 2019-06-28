@@ -1,0 +1,12 @@
+limit_0.png	limit of minus three times x square minus eight times x plus two all over minus three times x square plus eight times x plus nine as x approaches to seven
+limit_1.png	right hand limit of x square plus six times x minus five all over minus seven times x square plus seven times x minus six as x approaches to six
+limit_2.png	left hand limit of four times x square minus three times x minus six all over minus four times x square plus five times x minus two as x approaches to five
+limit_3.png	limit of minus three times z square minus eight times z minus six all over nine times z square plus z plus two as z approaches to nine
+limit_4.png	right hand limit of minus five times z square minus three times z minus four all over seven times z square plus z plus five as z approaches to five
+limit_5.png	left hand limit of seven times z square plus two times z plus three all over minus eight times z square minus five times z minus two as z approaches to nine
+limit_6.png	limit of minus five times t square minus three times t minus two all over five times t square minus three times t plus one as t approaches to six
+limit_7.png	right hand limit of nine times t square minus two times t plus four all over t square plus three times t plus four as t approaches to five
+limit_8.png	left hand limit of minus three times t square minus seven times t plus ten all over ten times t square minus two times t plus eight as t approaches to four
+limit_9.png	limit of nine times y square plus eight times y minus ten all over minus eight times y square plus two times y minus eight as y approaches to nine
+limit_10.png	right hand limit of minus four times y square plus nine times y plus seven all over three times y square minus four times y plus nine as y approaches to seven
+limit_11.png	left hand limit of minus ten times y square plus two times y minus four all over ten times y square minus y plus six as y approaches to two

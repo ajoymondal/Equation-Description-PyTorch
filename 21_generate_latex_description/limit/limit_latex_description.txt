@@ -1,0 +1,24 @@
+$\displaystyle \lim_{x\to 7^{}}\frac{-3x^{2}-8x+2}{-3x^{2}+8x+9}$
+
+$\displaystyle \lim_{x\to 6^{+}}\frac{x^{2}+6x-5}{-7x^{2}+7x-6}$
+
+$\displaystyle \lim_{x\to 5^{-}}\frac{4x^{2}-3x-6}{-4x^{2}+5x-2}$
+
+$\displaystyle \lim_{z\to 9^{}}\frac{-3z^{2}-8z-6}{9z^{2}+z+2}$
+
+$\displaystyle \lim_{z\to 5^{+}}\frac{-5z^{2}-3z-4}{7z^{2}+z+5}$
+
+$\displaystyle \lim_{z\to 9^{-}}\frac{7z^{2}+2z+3}{-8z^{2}-5z-2}$
+
+$\displaystyle \lim_{t\to 6^{}}\frac{-5t^{2}-3t-2}{5t^{2}-3t+1}$
+
+$\displaystyle \lim_{t\to 5^{+}}\frac{9t^{2}-2t+4}{t^{2}+3t+4}$
+
+$\displaystyle \lim_{t\to 4^{-}}\frac{-3t^{2}-7t+10}{10t^{2}-2t+8}$
+
+$\displaystyle \lim_{y\to 9^{}}\frac{9y^{2}+8y-10}{-8y^{2}+2y-8}$
+
+$\displaystyle \lim_{y\to 7^{+}}\frac{-4y^{2}+9y+7}{3y^{2}-4y+9}$
+
+$\displaystyle \lim_{y\to 2^{-}}\frac{-10y^{2}+2y-4}{10y^{2}-y+6}$
+

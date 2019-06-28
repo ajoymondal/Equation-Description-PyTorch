@@ -1,0 +1,4 @@
+linear_0.png	x minus four equal to four 
+linear_1.png	minus nine times y minus seven equal to minus eight 
+linear_2.png	four times z plus four equal to minus ten 
+linear_3.png	minus four times t minus eight equal to minus eight 
