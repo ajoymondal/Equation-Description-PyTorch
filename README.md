@@ -106,16 +106,16 @@ left hand limit of x power of a all minus one all over x as x approaches to zero
 
 ![alt text](image/test_68200.jpg)
 
-limit of second root of all y plus five all over y plus five as y approaches to five
+limit of second root of all five plus y all over y plus five as y approaches to five
 
 ![alt text](image/test_64866.jpg)
 
-ten times y less than or equal to three times y plus ten
+six times y less than or equal to three times y plus ten
 
 ![alt text](image/test_54959.jpg)
 
-y minus z equal to minus one and minus four times z minus five times t equal to two
+y minus four times z equal to minus one and minus ten times z minus five times t equal to two
 
 ![alt text](image/test_56003.jpg)
 
-two equal to minus t plus five
+t plus five equal to minus nine
