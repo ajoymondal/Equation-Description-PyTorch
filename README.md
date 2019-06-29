@@ -70,7 +70,7 @@ MED$ python3 sample.py
 
 ## Use this bibtex to cite this repository:
 
-@misc{matterport_maskrcnn_2017,
+@inproceedings{matterport_maskrcnn_2017,
   title={Textual Description for Mathematical Equations },
   author={Ajoy Mondal and C V Jawahar},
   booktitle={2019 15th IAPR International Conference on Document Analysis and Recognition (ICDAR)},
@@ -82,7 +82,7 @@ MED$ python3 sample.py
 
 ![alt text](image/test_81275.jpg)
 
-integral of second root of all theta minus a with respect to theta
+integral of square root of all theta minus a with respect to theta
 
 
 ![alt text](image/test_82913.jpg)
@@ -92,7 +92,7 @@ integral of sec z with respect to z from lower limit minus pie by two to upper l
 
 ![alt text](image/test_75236.jpg)
 
-differentiation of five all over second root of all tweenty five minus t square with respect to t
+differentiation of five all over square root of all tweenty five minus t square with respect to t
 
 
 ![alt text](image/test_71797.jpg)
@@ -106,7 +106,7 @@ left hand limit of x power of a all minus one all over x as x approaches to zero
 
 ![alt text](image/test_68200.jpg)
 
-limit of second root of all five plus y all over y plus five as y approaches to five
+limit of square root of all five plus y all over y plus five as y approaches to five
 
 ![alt text](image/test_64866.jpg)
 
